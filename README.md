@@ -16,8 +16,7 @@
 - Generates prediction summary PDF (Flask backend)
 - Visual chart for user-entered values
 
-## 📊 Project Screenshots
-(Add a screenshot of your Flask app interface and any charts if possible)
+
 
 ## 🚀 How to Run Locally
 ```bash
